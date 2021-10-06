@@ -1,0 +1,5 @@
+email:bruno-asbahr@hotmail.com
+ra: 0004/21-1
+curso: Analise e Desenvolvimento de Sistemas
+disciplina: Algoritmos e logica de programação
+endereço: R.Vanderlei Carlos Candiotto 764 Gustavo Piscinini
